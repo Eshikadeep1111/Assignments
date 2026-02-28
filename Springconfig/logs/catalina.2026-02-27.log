@@ -1,0 +1,203 @@
+27-Feb-2026 15:26:06.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.115
+27-Feb-2026 15:26:06.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 21 2026 08:17:26 UTC
+27-Feb-2026 15:26:06.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.115.0
+27-Feb-2026 15:26:06.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Feb-2026 15:26:06.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2026 15:26:06.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2026 15:26:06.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\EshikaDeep\.jdks\ms-17.0.18
+27-Feb-2026 15:26:06.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-LTS
+27-Feb-2026 15:26:06.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+27-Feb-2026 15:26:06.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:26:06.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:26:06.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2026 15:26:06.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2026 15:26:06.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Feb-2026 15:26:06.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Feb-2026 15:26:06.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2026 15:26:06.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:26:06.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:26:06.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\temp
+27-Feb-2026 15:26:06.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\logging.properties
+27-Feb-2026 15:26:06.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2026 15:26:06.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\EshikaDeep\AppData\Local\Programs\IntelliJ IDEA Community Edition 2025.2.6.1\lib\idea_rt.jar=53730
+27-Feb-2026 15:26:06.353 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+27-Feb-2026 15:26:06.388 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.5] using APR version [1.7.6].
+27-Feb-2026 15:26:06.389 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Feb-2026 15:26:06.389 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Feb-2026 15:26:06.414 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.18 30 Sep 2025]
+27-Feb-2026 15:26:07.037 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:26:07.080 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1201] milliseconds
+27-Feb-2026 15:26:07.187 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2026 15:26:07.188 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.115]
+27-Feb-2026 15:26:07.212 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\ROOT.xml]
+27-Feb-2026 15:26:11.078 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Feb-2026 15:26:11.369 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [104] milliseconds.
+27-Feb-2026 15:26:11.413 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\ROOT.xml] has finished in [4,202] ms
+27-Feb-2026 15:26:11.421 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:26:11.533 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4450] milliseconds
+27-Feb-2026 15:27:00.977 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:27:01.600 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Feb-2026 15:27:01.618 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:27:01.633 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:27:05.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.115
+27-Feb-2026 15:27:05.476 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 21 2026 08:17:26 UTC
+27-Feb-2026 15:27:05.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.115.0
+27-Feb-2026 15:27:05.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Feb-2026 15:27:05.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2026 15:27:05.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2026 15:27:05.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\EshikaDeep\.jdks\ms-17.0.18
+27-Feb-2026 15:27:05.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-LTS
+27-Feb-2026 15:27:05.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+27-Feb-2026 15:27:05.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:27:05.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:27:05.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2026 15:27:05.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2026 15:27:05.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Feb-2026 15:27:05.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Feb-2026 15:27:05.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2026 15:27:05.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:27:05.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:27:05.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\temp
+27-Feb-2026 15:27:05.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\logging.properties
+27-Feb-2026 15:27:05.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2026 15:27:05.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\EshikaDeep\AppData\Local\Programs\IntelliJ IDEA Community Edition 2025.2.6.1\lib\idea_rt.jar=62306
+27-Feb-2026 15:27:05.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+27-Feb-2026 15:27:05.545 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.5] using APR version [1.7.6].
+27-Feb-2026 15:27:05.545 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Feb-2026 15:27:05.546 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Feb-2026 15:27:05.575 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.18 30 Sep 2025]
+27-Feb-2026 15:27:06.131 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:27:06.166 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1045] milliseconds
+27-Feb-2026 15:27:06.287 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2026 15:27:06.288 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.115]
+27-Feb-2026 15:27:06.313 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml]
+27-Feb-2026 15:27:09.720 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Feb-2026 15:27:10.010 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml] has finished in [3,696] ms
+27-Feb-2026 15:27:10.017 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:27:10.121 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3954] milliseconds
+27-Feb-2026 15:29:17.232 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:29:17.873 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Feb-2026 15:29:17.898 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:29:17.910 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:29:22.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.115
+27-Feb-2026 15:29:22.279 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 21 2026 08:17:26 UTC
+27-Feb-2026 15:29:22.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.115.0
+27-Feb-2026 15:29:22.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Feb-2026 15:29:22.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2026 15:29:22.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2026 15:29:22.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\EshikaDeep\.jdks\ms-17.0.18
+27-Feb-2026 15:29:22.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-LTS
+27-Feb-2026 15:29:22.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+27-Feb-2026 15:29:22.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:29:22.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:29:22.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2026 15:29:22.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2026 15:29:22.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Feb-2026 15:29:22.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Feb-2026 15:29:22.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2026 15:29:22.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:29:22.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:29:22.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\temp
+27-Feb-2026 15:29:22.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\logging.properties
+27-Feb-2026 15:29:22.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2026 15:29:22.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\EshikaDeep\AppData\Local\Programs\IntelliJ IDEA Community Edition 2025.2.6.1\lib\idea_rt.jar=55821
+27-Feb-2026 15:29:22.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+27-Feb-2026 15:29:22.338 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.5] using APR version [1.7.6].
+27-Feb-2026 15:29:22.339 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Feb-2026 15:29:22.339 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Feb-2026 15:29:22.366 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.18 30 Sep 2025]
+27-Feb-2026 15:29:22.857 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:29:22.898 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [971] milliseconds
+27-Feb-2026 15:29:23.004 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2026 15:29:23.005 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.115]
+27-Feb-2026 15:29:23.020 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml]
+27-Feb-2026 15:29:26.678 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Feb-2026 15:29:27.497 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+27-Feb-2026 15:29:31.003 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 3506 ms
+27-Feb-2026 15:29:31.029 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml] has finished in [8,009] ms
+27-Feb-2026 15:29:31.036 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:29:31.145 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8246] milliseconds
+27-Feb-2026 15:48:55.042 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:48:55.717 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Feb-2026 15:48:55.760 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:48:55.769 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:48:58.535 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.115
+27-Feb-2026 15:48:58.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 21 2026 08:17:26 UTC
+27-Feb-2026 15:48:58.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.115.0
+27-Feb-2026 15:48:58.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Feb-2026 15:48:58.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2026 15:48:58.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2026 15:48:58.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\EshikaDeep\.jdks\ms-17.0.18
+27-Feb-2026 15:48:58.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-LTS
+27-Feb-2026 15:48:58.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+27-Feb-2026 15:48:58.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:48:58.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:48:58.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2026 15:48:58.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2026 15:48:58.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Feb-2026 15:48:58.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Feb-2026 15:48:58.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2026 15:48:58.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 15:48:58.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 15:48:58.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\temp
+27-Feb-2026 15:48:58.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\logging.properties
+27-Feb-2026 15:48:58.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2026 15:48:58.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\EshikaDeep\AppData\Local\Programs\IntelliJ IDEA Community Edition 2025.2.6.1\lib\idea_rt.jar=52861
+27-Feb-2026 15:48:58.585 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+27-Feb-2026 15:48:58.609 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.5] using APR version [1.7.6].
+27-Feb-2026 15:48:58.609 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Feb-2026 15:48:58.610 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Feb-2026 15:48:58.634 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.18 30 Sep 2025]
+27-Feb-2026 15:48:59.199 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:48:59.234 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1072] milliseconds
+27-Feb-2026 15:48:59.321 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2026 15:48:59.322 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.115]
+27-Feb-2026 15:48:59.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml]
+27-Feb-2026 15:49:03.529 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Feb-2026 15:49:04.394 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+27-Feb-2026 15:49:07.964 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 3570 ms
+27-Feb-2026 15:49:08.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml] has finished in [8,666] ms
+27-Feb-2026 15:49:08.023 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:49:08.195 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8960] milliseconds
+27-Feb-2026 15:49:13.540 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:49:14.117 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Feb-2026 15:49:14.140 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 15:49:14.149 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 16:10:37.469 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.115
+27-Feb-2026 16:10:37.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 21 2026 08:17:26 UTC
+27-Feb-2026 16:10:37.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.115.0
+27-Feb-2026 16:10:37.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Feb-2026 16:10:37.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2026 16:10:37.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2026 16:10:37.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\EshikaDeep\.jdks\ms-17.0.18
+27-Feb-2026 16:10:37.479 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.18+8-LTS
+27-Feb-2026 16:10:37.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+27-Feb-2026 16:10:37.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 16:10:37.480 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 16:10:37.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2026 16:10:37.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2026 16:10:37.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Feb-2026 16:10:37.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Feb-2026 16:10:37.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2026 16:10:37.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\EshikaDeep\Downloads\apache-tomcat-9.0.115-windows-x64 1\apache-tomcat-9.0.115
+27-Feb-2026 16:10:37.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig
+27-Feb-2026 16:10:37.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\temp
+27-Feb-2026 16:10:37.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\logging.properties
+27-Feb-2026 16:10:37.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2026 16:10:37.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\EshikaDeep\AppData\Local\Programs\IntelliJ IDEA Community Edition 2025.2.6.1\lib\idea_rt.jar=57836
+27-Feb-2026 16:10:37.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+27-Feb-2026 16:10:37.529 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.5] using APR version [1.7.6].
+27-Feb-2026 16:10:37.529 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+27-Feb-2026 16:10:37.529 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Feb-2026 16:10:37.549 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.18 30 Sep 2025]
+27-Feb-2026 16:10:38.044 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 16:10:38.082 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1002] milliseconds
+27-Feb-2026 16:10:38.203 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2026 16:10:38.204 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.115]
+27-Feb-2026 16:10:38.226 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml]
+27-Feb-2026 16:10:42.074 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Feb-2026 16:10:42.968 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+27-Feb-2026 16:10:47.169 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 4200 ms
+27-Feb-2026 16:10:47.196 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\EshikaDeep\Desktop\Spring Boot\Springconfig\conf\Catalina\localhost\springMVC.xml] has finished in [8,969] ms
+27-Feb-2026 16:10:47.205 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Feb-2026 16:10:47.308 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9226] milliseconds
